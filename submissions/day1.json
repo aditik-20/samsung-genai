@@ -10,19 +10,20 @@
   "lab": "model_face_off",
 
   "p1_winner": "chatgpt",
-  "p1_observation": "Delivered the most precise and easy-to-understand explanation while maintaining clarity and relevance to the prompt.",
+  "p1_observation": "Provided the clearest explanation of Generative AI while staying within the 100-word limit. The response was professional, concise, and appropriate for a Slack message to leadership.",
 
   "p2_winner": "claude",
-  "p2_observation": "Presented the strongest marketing-oriented response with a persuasive tone, clear structure, and messaging that closely matched Samsung's branding style.",
+  "p2_observation": "Generated the most authentic Samsung-style product announcement with a compelling headline, engaging marketing language, and messaging tailored for young professionals.",
 
   "p3_winner": "chatgpt",
-  "p3_observation": "Provided the most reliable answer by clearly separating confirmed information from assumptions and avoiding unsupported technical claims.",
+  "p3_observation": "Produced the most trustworthy response by avoiding unsupported implementation details and clearly distinguishing verified information from assumptions.",
 
   "hallucination_found": true,
-  "hallucination_detail": "Some responses included technical implementation details that could not be verified through official Samsung sources, making those statements likely hallucinations.",
+  "hallucination_detail": "Claude and Gemini included technical implementation details about Galaxy AI that could not be verified through official Samsung sources. ChatGPT remained more cautious and avoided presenting speculative information as confirmed facts.",
 
   "overall_winner": "chatgpt",
-  "biggest_surprise": "The comparison showed that a longer or more confident response is not always the most accurate. Careful fact-checking is essential when evaluating AI-generated content.",
+
+  "biggest_surprise": "The comparison demonstrated that the most detailed response is not always the most accurate. Fact-checking AI-generated content is essential because confident wording can still include hallucinations.",
 
   "stretch_done": false,
   "stretch_prompt": "-",
