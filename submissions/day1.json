@@ -1,0 +1,34 @@
+{
+  "day": 1,
+  "student_name": "Aditi Krishna",
+  "github": "aditik-20",
+
+  "lab2_team": "Dhurandhar",
+  "lab2_model_used": "HuggingFaceTB/SmolLM2-360M-Instruct",
+  "lab2_gradio_url": "https://982bb7ca48673a33f2.gradio.live/",
+
+  "lab": "model_face_off",
+
+  "p1_winner": "chatgpt",
+  "p1_observation": "Delivered the most precise and easy-to-understand explanation while maintaining clarity and relevance to the prompt.",
+
+  "p2_winner": "claude",
+  "p2_observation": "Presented the strongest marketing-oriented response with a persuasive tone, clear structure, and messaging that closely matched Samsung's branding style.",
+
+  "p3_winner": "chatgpt",
+  "p3_observation": "Provided the most reliable answer by clearly separating confirmed information from assumptions and avoiding unsupported technical claims.",
+
+  "hallucination_found": true,
+  "hallucination_detail": "Some responses included technical implementation details that could not be verified through official Samsung sources, making those statements likely hallucinations.",
+
+  "overall_winner": "chatgpt",
+  "biggest_surprise": "The comparison showed that a longer or more confident response is not always the most accurate. Careful fact-checking is essential when evaluating AI-generated content.",
+
+  "stretch_done": false,
+  "stretch_prompt": "-",
+  "stretch_observation": "-",
+
+  "achievement": "diamond",
+
+  "submitted_at": "2026-07-13T15:42:00"
+} 
