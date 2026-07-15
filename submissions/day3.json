@@ -1,0 +1,20 @@
+{
+  "day": 3,
+  "student_name": "Aditi Krishna",
+  "github": "aditik-20",
+  "ir_hallucination_done": true,
+  "ir_bias_done": true,
+  "ir_guardrail_builder_done": true,
+  "ir_battle_complete": true,
+  "ir_battle_blocked": 8,
+  "ir_battle_total": 8,
+  "rag_scenario": "A",
+  "rag_no_rag_summary": "The model confidently stated that a cracked Galaxy Watch6 screen after 14 months is generally not covered under the standard warranty unless the customer has an active Samsung Care+ plan or another protection plan. The answer was accurate and recommended verifying the customer's warranty status before confirming coverage.",
+  "rag_grounded_summary": "The grounded answer used only the provided policy and correctly explained that a cracked screen after 14 months is covered only if the customer has an active Samsung Care+ plan. Otherwise, the customer should use Samsung's authorized paid repair service.",
+  "rag_judgement": "no_difference",
+  "stretch_done": true,
+  "stretch_notes": "I tested a scenario where the model's internal knowledge could potentially conflict with the provided Samsung Care+ policy. By instructing the model to answer using only the supplied document, the response followed the official policy rather than relying on memory. This demonstrated that RAG prioritizes authoritative documentation over prior knowledge, reducing hallucinations and ensuring enterprise responses remain accurate, consistent, and aligned with official company policies.",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-15T06:16:16.220Z"
+}
